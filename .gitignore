@@ -1,2 +1,5 @@
-### Diretórios ignorados ###
+### Diretórios Ignorados ###
 /.aux
+
+### Arquivos Ignorados ###
+indent.log
